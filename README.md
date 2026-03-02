@@ -6,4 +6,4 @@ Esercitazioni di laboratorio e dispense.
 - **Docente**: Prof. Raffaele Cappelli
 
 ## Laboratorio
-- [lab#01](lab01-Python): Introduzione a Python e NumPy
+- [lab#01](lab/lab01-Python): Introduzione a Python e NumPy
