@@ -7,3 +7,4 @@ Esercitazioni di laboratorio e dispense.
 
 ## Laboratorio
 - [lab#01](lab/lab01-Python): Introduzione a Python e NumPy
+- [lab#02](lab/lab02-Immagini): Introduzione alla manipolazione di immagini con OpenCV; Lookup Table (LUT), RGB/HSV/HSL
